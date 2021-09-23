@@ -1,0 +1,52 @@
+*{
+    margin:0px; 
+    padding:0px;
+    }
+    
+    
+    h3{
+        background: blue;
+        font-size: 18px;
+        clear:both;
+       
+       
+    }
+    li{
+        display: inline-block;
+        padding: 10px;
+    }
+    #a1{
+        padding: -10;
+    }
+    .left{
+        float: left;
+       
+        width:630px;
+	    height:350px;
+    }
+    .right{
+        float: right;
+        width:645px;
+	    height:350px;   
+        
+    }
+ .nexbox{
+     
+     width: 1276px;
+     height: auto;
+     padding: 10px;
+     margin-top: 350px;
+ }
+ .left2{
+    float: left;
+    width:600px;
+    height:350px;
+}
+.right2{
+    
+    float: right;
+    width:645px;
+    height:350px;   
+    
+}
+ 
