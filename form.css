@@ -49,4 +49,18 @@
     height:350px;   
     
 }
- 
+input[type=submit] {
+  background-color: blue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: center;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
