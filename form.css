@@ -20,7 +20,6 @@
     }
     .left{
         float: left;
-       
         width:630px;
 	    height:350px;
     }
@@ -30,44 +29,20 @@
 	    height:350px;   
         
     }
- .nexbox{
-     
-     width: 1276px;
-     height: auto;
-     padding: 10px;
-     margin-top: 350px;
- }
  .left2{
     float: left;
     width:600px;
-    height:350px;
+    height:300px;
 }
 .right2{
     
     float: right;
     width:645px;
-    height:350px;   
+    height:300px;   
     
 }
-input[type=submit] {
-  background-color: blue;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  float: center;
-}
 
-input[type=submit]:hover {
-  background-color: red;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  float: center;
-}
+
 .row:after {
   content: "";
   display: table;
